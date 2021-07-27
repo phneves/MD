@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: EPC9001_2 rev5.PCBDOC   1/24/2014  4:27:50 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EPC9001_2 rev5.TXT
+EIA File   : EPC9001_2 rev5.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          119              3.19 Inch (80.94 mm)
+T2        10mil (0.254mm)          Round          6                0.35 Inch (8.98 mm)
+T3        15mil (0.381mm)          Round          72               9.49 Inch (241.12 mm)
+T4        30mil (0.762mm)          Round          6                0.47 Inch (11.88 mm)
+T5        40mil (1.016mm)          Round          31               5.97 Inch (151.74 mm)
+---------------------------------------------------------------------------
+Totals                                            234              19.48 Inch (494.67 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

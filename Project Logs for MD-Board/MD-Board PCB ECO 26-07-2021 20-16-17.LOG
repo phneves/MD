@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Vout Pin=C7-1
+Removed Pin From Net: NetName=Vout Pin=C8-2
+Removed Pin From Net: NetName=Vout Pin=L2-2
+Removed Pin From Net: NetName=Vout Pin=P6-1
+Removed Pin From Net: NetName=Vout Pin=P6-2
+Removed Pin From Net: NetName=Vout Pin=P6-3
+Removed Pin From Net: NetName=Vin Pin=Q3-2
+Removed Pin From Net: NetName=Vout Pin=R18-2
+Removed Pin From Net: NetName=Vin Pin=U8-8
+Added Pin To Net: NetName=Vin_Mos Pin=Q3-2
+Added Pin To Net: NetName=Vin_Mos Pin=U8-8
+Added Net: Name=Vin_Mos
+Added Pin To Net: NetName=Vout_Mos Pin=C7-1
+Added Pin To Net: NetName=Vout_Mos Pin=C8-2
+Added Pin To Net: NetName=Vout_Mos Pin=L2-2
+Added Pin To Net: NetName=Vout_Mos Pin=P6-1
+Added Pin To Net: NetName=Vout_Mos Pin=P6-2
+Added Pin To Net: NetName=Vout_Mos Pin=P6-3
+Added Pin To Net: NetName=Vout_Mos Pin=R18-2
+Added Net: Name=Vout_Mos
+Added Member To Class: ClassName=Mosfet Member=Component R26 CRCW02010000Z0ED

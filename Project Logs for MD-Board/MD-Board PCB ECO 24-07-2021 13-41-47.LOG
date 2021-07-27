@@ -1,0 +1,69 @@
+Added Component: Designator=Q1(D0188)
+Add component (AddParameter): Name = "Config"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EPC Part Number"; Value = "EPC2001C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "EPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFGPN"; Value = "EPC2001C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EPC2001C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QSGdescript"; Value = "100V 7mE 36A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SchDescript"; Value = "100V 7mE 36A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "917-1079-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "917-1079-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "917-1079-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(D0188)
+Add component (AddParameter): Name = "Config"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EPC Part Number"; Value = "EPC2001C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "EPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFGPN"; Value = "EPC2001C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EPC2001C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QSGdescript"; Value = "100V 7mE 36A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SchDescript"; Value = "100V 7mE 36A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "917-1079-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "917-1079-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "917-1079-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-5
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-6
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-7
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-8
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-9
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-10
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-11
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q2-4
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-5
+Added Pin To Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-7
+Added Pin To Net: NetName=GND Pin=Q2-8
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-9
+Added Pin To Net: NetName=GND Pin=Q2-10
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-11
+Added Member To Class: ClassName=00 - Main Member=Component Q1 EPC2001C
+Added Member To Class: ClassName=00 - Main Member=Component Q2 EPC2001C
+Added Room: Name=00 - Main

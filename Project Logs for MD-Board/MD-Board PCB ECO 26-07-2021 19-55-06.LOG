@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR30_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U8-2
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=U8-3
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U8-4
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U8-6
+Added Net: Name=NetR29_2
+Added Member To Class: ClassName=Mosfet Member=Component R25 CRCW02010000Z0ED
+Added Member To Class: ClassName=Mosfet Member=Component R27 CRCW02010000Z0ED
+Added Member To Class: ClassName=Mosfet Member=Component R28 CRCW02010000Z0ED
+Added Member To Class: ClassName=Mosfet Member=Component R29 CRCW02010000Z0ED
+Added Member To Class: ClassName=Mosfet Member=Component R30 CRCW02010000Z0ED

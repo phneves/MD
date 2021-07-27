@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=00 - Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=00 - Main.SchDoc|Designator=GaN|SchDesignator=GaN|FileName=01 - GaN.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=01 - GaN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00 - Main.SchDoc|Designator=Mosfet|SchDesignator=Mosfet|FileName=02 - IRF530.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=02 - IRF530.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

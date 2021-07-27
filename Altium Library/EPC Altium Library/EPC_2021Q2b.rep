@@ -1,0 +1,70 @@
+CSV text has been written to file : EPC_2021Q2b.csv
+
+Library Component Count : 63
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+EPC2001C            100V 7mE 36A
+EPC2007C            100V 30mE 6A
+EPC2010C            200V 25mE 22A
+EPC2012C            200V 100mE 5A
+EPC2014C            40V 16mE 10A
+EPC2015C            40V 4mE 53A
+EPC2016C            100V 16mE 18A
+EPC2019             200V 50mE 8.5A
+EPC2020             60V 2.2mE 90A
+EPC2021             80V 2.5mE 90A
+EPC2022             100V 3.2mE 90A
+EPC2023             30V 1.45mE 90A
+EPC2024             40V 1.5mE 90A
+EPC2029             80V 3.2mE 48A
+EPC2030             40V 2.4mE 48A
+EPC2031             60V 2.6mE 48A
+EPC2032             100V 4mE 48A
+EPC2033             150V 7mE 48A
+EPC2034C            200V 8mE 48A
+EPC2035             60V 45mE 1.7A
+EPC2036             100V 73mE 1.7A
+EPC2037             100V 550mE 1.7A
+EPC2038             100V 3300mE 0.5A
+EPC2039             80V 25mE 6.8A
+EPC2040             15V 30mE 3.4A
+EPC2045             100V 7mE 16A
+EPC2050             350V 65mE 6.3A
+EPC2051             100V 25mE 1.7A
+EPC2052             100V 13.5mE 8.2A
+EPC2053             100V 3.8mE 48A
+EPC2054             200V 32mE 2.4A
+EPC2055             40V 29A 3.6mE
+EPC2059             170V 25A 9mE
+EPC2065             80 V 60A 3.6mE
+EPC2100             30V 8.2mE/2.1mE 10A/40A 1:4HB
+EPC2101             60V 11.5mE/2.8mE 10A/40A 1:4HB
+EPC2102             60V 4.9mE 30A 1:1HB
+EPC2103             80V 5.5mE 30A 1:1HB
+EPC2104             100V 6.8mE 30A 1:1HB
+EPC2105             80V 14.5mE/3.6mE 10A/40A 1:4HB
+EPC2106             100V 70mE 1.7A 1:1HB
+EPC2107             100V 390mE 1.7A 1:1HB
+EPC2108             60V 240mE 1.7A 1:1HB
+EPC2110             120V 110mE 3.4A 1:1Common Source
+EPC2111             30 V HB 19mE/8mE 16A/16A 1:2HB
+EPC2152             80V, 12mE Sym HB IC with UVLO & ESDs.
+EPC21601            eToF Laser Driver IC, 40V 10A with 5V VDD, 3.3V logic input
+EPC21603            eToF Laser Driver IC, 40V 10A with 5V VDD, LVDS input
+EPC2202             80V 17mE 18A
+EPC2203             80V 80mE 1.7A
+EPC2204             100V 32A 6mE
+EPC2206             80V 2.2mE 90A
+EPC2207             200V 13A 22mE
+EPC2212             100V 40mE 10A
+EPC2214             80V 20mE 10A
+EPC2215             200V 42A 8mE
+EPC2216             15V 26mE 3.4A
+EPC2218             100 V 60A 3.2mE
+EPC2219             65 V, 3300mE, 0.5A
+EPC8002             65V 480mE 2A
+EPC8004             40V 110mE 4A
+EPC8009             65V 130mE 4A
+EPC8010             100V 160mE 4A

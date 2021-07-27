@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=PWM_Low Pin=R9-1
+Removed Pin From Net: NetName=PWM_High Pin=R11-1
+Removed Member From Class: ClassName=00 - Main Member=C1
+Removed Member From Class: ClassName=00 - Main Member=C2
+Removed Member From Class: ClassName=00 - Main Member=P1
+Removed Member From Class: ClassName=00 - Main Member=P2
+Removed Member From Class: ClassName=00 - Main Member=P3
+Removed Member From Class: ClassName=00 - Main Member=R1
+Removed Member From Class: ClassName=00 - Main Member=R2
+Removed Member From Class: ClassName=00 - Main Member=R3
+Removed Member From Class: ClassName=00 - Main Member=R4
+Removed Member From Class: ClassName=00 - Main Member=R5
+Removed Member From Class: ClassName=00 - Main Member=R6
+Removed Member From Class: ClassName=00 - Main Member=U1
+Added Component: Designator=R7(RESC0603X28X15NL5T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC0603X28X15NL5T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DCK0005A_M)
+Add component (AddParameter): Name = "3-State Output"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCES217Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Type"; Value = "AND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74LVC1G08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS/TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125,-40 to 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "32/-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "AND Gate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "LVC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "4.5,6,4,5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "1.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "1.8,2.5,3.3,5"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DCK0005A_M)
+Add component (AddParameter): Name = "3-State Output"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCES212AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Type"; Value = "NAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74LVC1G00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS/TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125,-40 to 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "32/-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "NAND Gate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "LVC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "9,5.5,4.7,4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "1.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "1.8,2.5,3.3,5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM_High Pin=R7-2
+Added Pin To Net: NetName=PWM_Low Pin=R8-2
+Added Pin To Net: NetName=PWM_High Pin=U3-1
+Added Pin To Net: NetName=PWM_High Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-5
+Added Pin To Net: NetName=PWM_High Pin=U4-1
+Added Pin To Net: NetName=PWM_High Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VCC Pin=U4-5
+Added Pin To Net: NetName=PWM_Logic_High Pin=R8-1
+Added Pin To Net: NetName=PWM_Logic_High Pin=R11-1
+Added Pin To Net: NetName=PWM_Logic_High Pin=U4-4
+Added Net: Name=PWM_Logic_High
+Added Pin To Net: NetName=PWM_Logic_Low Pin=R7-1
+Added Pin To Net: NetName=PWM_Logic_Low Pin=R9-1
+Added Pin To Net: NetName=PWM_Logic_Low Pin=U3-4
+Added Net: Name=PWM_Logic_Low
+Change Class Name : Old Net Name=00 - Main New Net Name=Designator
+Added Class: Name=00 - Main
+Added Member To Class: ClassName=Designator Member=Component R7 CRCW02010000Z0ED
+Added Member To Class: ClassName=Designator Member=Component R8 CRCW02010000Z0ED
+Added Member To Class: ClassName=Designator Member=Component U3 SN74LVC1G08DCKR
+Added Member To Class: ClassName=Designator Member=Component U4 SN74LVC1G00DCKR

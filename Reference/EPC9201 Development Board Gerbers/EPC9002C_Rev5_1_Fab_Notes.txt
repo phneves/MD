@@ -1,0 +1,79 @@
+PRINTED CIRCUIT BOARD FABRICATION NOTES
+
+Document revision August 25, 2016
+
+
+	Efficient Power Conversion
+	909 N. Sepulveda Blvd. ste230
+	El Segundo, CA 90245
+	U.S.A.
+	Tel: +1 (310) 615 0279
+	Fax: +1 (310) 615 0284
+
+
+Printed Circuit board fabrication instructions, unless otherwise specified:
+
+1.  Material, Copper Clad Laminate sheet in accordance with IPC-4101.
+    Total Board thickness to be 0.062 inches with torelarance to be +/-10%
+    Material: Use FR370-HR Substrate or similar. Must have the following Properties:
+	a. Tg(min) = 180 degrees C
+	b. Td(min) = 340 degrees C
+	c. Flame rating 94V0
+	d. Dielectric = 4.0/5.0
+
+2.  All holes to be located by pad centers & be within .003 inches dia. of true position.
+    Layer to layer registration to be within 0.002 inches
+
+3.  All vias (less than and equal to .015 inches holes) to be tented on both sides of the board
+    All vias (less than and equal to .015 inches holes) are to be filled (non conductive)
+
+4.  All holes to be Copper (Cu) Plated thru per IPC-2221, 0.000787 inches min. thickness
+
+5.  Solder Mask over bare Copper, both sides, using Taiyu 4000HFX L.P.I or
+    equiv., color green per IPC-SM-840, class T, RoHS Compliant
+    Solder mask created 1:1, do not enlarge or modify.
+    LDI mask must be used to register tolerance.
+    Solder Mask to copper layer registration to be within 0.002 inches
+    Do not clip solder mask
+    *Replacement of 'PSR-2000/LF02/CA-25' is approved
+
+6.  Finish, all exposed Copper, both sides, after solder mask, to be
+    Electroless Nickle Immersion Gold (Ni thickness typical 150 microinches
+    and Au 3-5 micro inches) in accordance with IPC-4552
+
+7.  Silkscreen both sides using white permanent ink.
+    Silkscreen to copper layer registration to be within 0.002 inches
+
+8.  Create an array panel as follows:
+        Array is 3 Boards in X-direction(horizontal) by 2 Boards in Y-direction (vertical)
+	6 boards per array.
+	Array boundary is to be 10 mm width on all sides
+        Use 4off fiducial marks on array of 0.040 inches diameter solid circle placed on array frame
+	Fiducial must be global defined and orthogonally located with respect to each other
+        Fifucials must have .150 inches diameter clearance
+	Include 4 tooling holes, .125 inches +.003 inches -0.0 diameter, non-plated
+	Tooling holes to be located in each of the corners of the breakaway section in center of frame
+	V-score complete array
+
+9.  Fabricate using Gerber artwork. Do not add any text, logos, etc. to the top side of the board.
+
+10. Acceptability of PCB Fabrication, except as specified in this drawing,
+    must comply to IPC-6012B, class 2.
+	Compelete array flatness must be within 7.5 mil per inch
+
+11. Any changes to the design must be approved by EPC in writing.
+
+12. Array Gerber files to be provided to EPC for approval
+
+13. Stackup:
+	Total thickness target - 62 mils
+	Core thickness tolerance is +/- 10%
+	Copper thickness can be plated up
+	Stackup
+		Top Layer	- 1.0 oz minimum -2.0 oz target. Specify copper thickness and final thickness after ENIG plating
+			Prepreg		- 5 mils
+		Mid Layer 1	- 2.0 oz
+			Core		- ~43 mils
+		Mid Layer 2	- 2.0 oz
+			Prepreg		- 5 mils
+		Bottom Layer	- 1.0 oz minimum -2.0 oz target. Specify copper thickness and final thickness after ENIG plating

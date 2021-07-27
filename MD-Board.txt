@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\pedro\Documents\GitHub\Mestrado\MD-Board\MD-Board.PcbDoc
+Date         : 26/07/2021
+Time         : 21:35:22
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 98,73%
+    Connections, 158
+    Connections routed, 156
+    Connections remaining, 2
+count : 4

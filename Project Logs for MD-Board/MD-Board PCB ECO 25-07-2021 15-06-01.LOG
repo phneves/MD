@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWM_Logic_Low Pin=R7-1
+Removed Pin From Net: NetName=PWM_Logic_High Pin=R8-1
+Removed Pin From Net: NetName=PWM_Logic_Low Pin=U3-4
+Removed Pin From Net: NetName=PWM_Logic_High Pin=U4-4
+Added Pin To Net: NetName=PWM_Logic_High Pin=R7-1
+Added Pin To Net: NetName=PWM_Logic_Low Pin=R8-1
+Added Pin To Net: NetName=PWM_Logic_High Pin=U3-4
+Added Pin To Net: NetName=PWM_Logic_Low Pin=U4-4

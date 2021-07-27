@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=R8-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R10-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R13-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=R16-2
+Removed Member From Class: ClassName=00 - Main Member=R8
+Removed Member From Class: ClassName=00 - Main Member=R10
+Removed Member From Class: ClassName=00 - Main Member=R13
+Removed Member From Class: ClassName=00 - Main Member=R16
+Added Pin To Net: NetName=NetQ2_1 Pin=U2-A1
+Added Pin To Net: NetName=NetC3_2 Pin=U2-C1
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-D1
+Added Pin To Net: NetName=NetC3_2 Pin=U2-D4
+Added Member To Class: ClassName=00 - Main Member=Component L1 SER2010-122MLB

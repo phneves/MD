@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM_High Pin=R9-1
+Removed Pin From Net: NetName=PWM_Low Pin=R11-1
+Added Pin To Net: NetName=PWM_Low Pin=R9-1
+Added Pin To Net: NetName=PWM_High Pin=R11-1
